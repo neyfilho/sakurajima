@@ -75,3 +75,6 @@ These logs will appear in the same directory as the scripts after execution.
 ## License
 
 No license. No restrictions. Use, copy, destroy, or rewrite as you like.
+
+<img src="https://github.com/neyfilho/sakurajima/blob/main/mai-san.gif">
+
